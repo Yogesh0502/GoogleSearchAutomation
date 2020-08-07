@@ -1,0 +1,7 @@
+<suite name="Regression Suite1">
+<test name="TestGoogleSearch1">
+	<classes>
+		<class name="com.tutorial.MavenProject.GoogleSearchTest"></class>
+	</classes>
+</test>
+</suite>

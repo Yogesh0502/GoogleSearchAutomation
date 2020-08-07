@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="16347" started-at="2020-08-02T15:26:11 IST" finished-at="2020-08-02T15:26:27 IST">
+    <groups>
+    </groups>
+    <test name="TestGoogleSearch" duration-ms="16347" started-at="2020-08-02T15:26:11 IST" finished-at="2020-08-02T15:26:27 IST">
+      <class name="com.tutorial.MavenProject.GoogleSearchTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.tutorial.MavenProject.GoogleSearchTest@68bbe345]" name="beforeMethod" is-config="true" duration-ms="6504" started-at="2020-08-02T15:26:11 IST" finished-at="2020-08-02T15:26:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.tutorial.MavenProject.GoogleSearchTest@68bbe345]" name="f" duration-ms="6282" started-at="2020-08-02T15:26:17 IST" finished-at="2020-08-02T15:26:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.tutorial.MavenProject.GoogleSearchTest@68bbe345]" name="afterMethod" is-config="true" duration-ms="3514" started-at="2020-08-02T15:26:24 IST" finished-at="2020-08-02T15:26:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.tutorial.MavenProject.GoogleSearchTest -->
+    </test> <!-- TestGoogleSearch -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
